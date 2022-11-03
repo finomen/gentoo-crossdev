@@ -1,0 +1,4 @@
+app-emulation/qemu static-user QEMU_USER_TARGETS: x86_64 aarch64 arm QEMU_SOFTMMU_TARGETS: x86_64 aarch64 arm
+dev-libs/glib static-libs
+sys-libs/zlib static-libs
+sys-apps/attr static-libs
